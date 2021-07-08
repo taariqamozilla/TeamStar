@@ -1,0 +1,44 @@
+---
+title: Team Star
+layout: "base.njk"
+---
+
+<section id="hero">
+    <div>
+        <h1>let's make team building <span id="hero-span">fun!</span></h1>
+        <p>Read our latest blog posts to see our team based insights!</p>
+        <a href="/blog" class="button" id="hero-button">Take Me There!</a>
+    </div>
+</section>
+
+<div class="margin">
+    <section id="featured-articles">
+        
+            <h2>Featured Articles</h2>
+            <ul id="featured" class="article-grid">
+                {%- for post in collections.featured -%}
+                    {% include 'article-snippet.njk' %}
+                {%- endfor -%}
+            </ul>
+        
+    </section>
+
+    <section id="help">
+        <div>
+            <h2>What’s the deal with office <span class="accent">relations?</span></h2>
+            <p>Amet eu integer non scelerisque dictum ac dolor pretium aliquet. Pulvinar ac vitae pellentesque fermentum eu in et. Euismod neque urna mus leo non faucibus. Vivamus elementum in commodo odio amet enim id nullam. Eget tempor magnis aliquam orci, etiam magna sem varius fermentum.</p>
+        </div>
+        <div>
+            <h2>How We Can help your <span class="accent">office</span></h2>
+            <p>Amet eu integer non scelerisque dictum ac dolor pretium aliquet. Pulvinar ac vitae pellentesque fermentum eu in et. Euismod neque urna mus leo non faucibus. Vivamus elementum in commodo odio amet enim id nullam. Eget tempor magnis aliquam orci, etiam magna sem varius fermentum.</p>
+        </div>
+    </section>
+
+    <section id="newsletter">
+        <h2>Sign Up To Our Newsletter!</h2>
+        <form action="">
+            <input type="email" name="email" id="email" placeholder="Email">
+            <button>SIGN UP</button>
+        </form>
+    </section>
+</div>
