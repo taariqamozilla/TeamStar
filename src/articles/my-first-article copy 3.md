@@ -1,10 +1,13 @@
 ---
-title: Your job isnt fulfilling, and you know it!
+title: how unpaid labour effects employees and company morale
 author: Taariq Mamun
-tags: ["post", "featured"]
-image: /assets/article-image.jpg
-image-alt: Business persons standing around a desk
 description: This is a lengthy article description.
+date: 2021-07-08T19:09:25.123Z
+tags:
+  - post
+  - featured
+image: /assets/blog/pexels-tiger-lily-4484078.jpg
+image-alt: Business persons standing around a desk
 ---
 
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac eros nec dolor consequat hendrerit. In semper erat in enim facilisis sagittis. Phasellus dictum, leo sit amet ultrices hendrerit, metus sem viverra nunc, varius egestas urna risus et nisl. Vestibulum condimentum metus id est suscipit, sed sollicitudin risus tristique. Aliquam vitae lorem vestibulum ex consectetur posuere id at ante. Nunc vestibulum, urna id iaculis tempus, nunc ante aliquet elit, ac mattis dolor nulla vestibulum velit. Nunc at turpis vitae neque accumsan euismod in vitae est.
