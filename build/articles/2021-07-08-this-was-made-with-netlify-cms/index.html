@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>This was made with netlify CMS!</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <script defer src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+<body>
+    
+    <header>
+        <nav>
+            <a href="/"><img src="/assets/logo.svg" alt=""></a>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="">About</a></li>
+                <li><a href="/blog">Blog</a></li>
+                <li><a href="">Contact</a></li>
+            </ul>
+        </nav>
+</header>
+    <main>
+        
+<div id="article-image">
+    <img src="/assets/blog/166-2.webp" alt="NaN">
+</div>
+
+<main id="article-content" class="margin">
+
+    <section>
+        <h2>This was made with netlify CMS!</h2>
+        <p id="byline">by <span class="accent">Taariq Mamun</span></p>
+    </section>
+
+    <article>
+        <p>This is a whole article about really cool stuff and what it does because yes</p>
+
+    </article>
+
+</main>
+    </main>
+    <footer>
+    <section>
+        <div>
+            <img src="/assets/logo-white.svg" alt="">
+            <p>1-31 Brookman St, Perth WA 6000</p>
+        </div>
+
+        <div id="footer-sitemap">
+            <ul>
+                <h2>Our Company</h2>
+                <li><a href="">About Us</a></li>
+                <li><a href="">Contact</a></li>
+            </ul>
+            <ul>
+                <h2>Blog</h2>
+                <li><a href="">Entries</a></li>
+                <li><a href=""></a></li>
+            </ul>
+            <ul>
+                <h2>Other Stuff</h2>
+                <li><a href="">About Us</a></li>
+                <li><a href="">Contact</a></li>
+            </ul>
+        </div>
+    </section>
+    <p>Copyright © Taariq Mamun, 2021</p>
+</footer>
+    
+    <script>
+        if (window.netlifyIdentity) {
+            window.netlifyIdentity.on("init", user => {
+            if (!user) {
+                window.netlifyIdentity.on("login", () => {
+                document.location.href = "/admin/";
+                });
+            }
+            });
+        }
+    </script>
+
+</body>
+</html>
