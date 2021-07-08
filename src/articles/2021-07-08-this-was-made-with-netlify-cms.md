@@ -2,7 +2,7 @@
 title: This was made with netlify CMS!
 author: Taariq Mamun
 description: This is my first post with the netlify cms
-date: 2021-07-08T18:53:35.065Z
+date: 2021-07-10T19:00:02.123Z
 tags:
   - post
 image: /assets/blog/166-2.webp
