@@ -5,7 +5,6 @@ description: This is a lengthy article description.
 date: 2021-07-08T19:06:32.763Z
 tags:
   - post
-  - featured
 image: /assets/blog/electrician-working-on-the-electrical-installation-qpa22kh.jpg
 image-alt: Business persons standing around a desk
 ---
