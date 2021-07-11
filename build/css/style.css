@@ -350,6 +350,9 @@ form button, #email{
         max-width: 100%;
         width: auto !important;
     }
+    #help div{
+        width: 100%;
+    }
     #article-content article{
         column-count: 1;
     }
