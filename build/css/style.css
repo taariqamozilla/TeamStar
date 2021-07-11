@@ -197,7 +197,6 @@ footer a{
     text-transform: uppercase;
     font-weight: 900;
     font-size: 48px;
-    width: 500px;
     margin-bottom: 20px;
 }
 
@@ -349,6 +348,7 @@ form button, #email{
     #hero div h1{
         font-size: 32px;
         max-width: 100%;
+        width: auto !important;
     }
     #article-content article{
         column-count: 1;
