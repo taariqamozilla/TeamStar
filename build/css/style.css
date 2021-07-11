@@ -190,7 +190,7 @@ footer a{
 #hero div{
     margin-left: 26%;
     color: var(--primary);
-    width: 440px;
+    padding: 20px;
 }
 
 #hero h1{
