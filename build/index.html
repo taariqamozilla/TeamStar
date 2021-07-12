@@ -12,13 +12,19 @@
     
     <header>
         <nav>
-            <a href="/"><img src="/assets/logo.svg" alt=""></a>
-            <ul>
+            <div class="logo-container">
+                <a href="/"><img src="/assets/logo.svg" alt=""></a>
+            </div>
+            <ul id="nav-menu" class="hidden">
                 <li><a href="/">Home</a></li>
                 <li><a href="">About</a></li>
                 <li><a href="/blog">Blog</a></li>
                 <li><a href="">Contact</a></li>
             </ul>
+            <div id="hamburger">
+                <div class="line"></div>
+                <div class="line"></div>
+            </div>
         </nav>
 </header>
     <main>
@@ -131,6 +137,6 @@
             });
         }
     </script>
-
+    <script src="/assets/javascript/menu.js"> </script>
 </body>
 </html>
