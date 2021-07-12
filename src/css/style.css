@@ -335,10 +335,6 @@ form button, #email{
     margin: 8px;
 }
 
-.hidden{
-    display: none !important;
-}
-
 @media screen and (max-width: 764px){
     .logo-container{
         display: grid;
@@ -420,5 +416,8 @@ form button, #email{
         margin: 0;
         width: 100%;
         margin-top: 20px;
+    }
+    .hidden{
+        display: none !important;
     }
 }
