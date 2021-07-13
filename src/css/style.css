@@ -357,11 +357,11 @@ form button, #email{
         width: 60vw;
         flex-direction: column;
         justify-content: space-evenly;
-        padding: 50px;
+        padding: 0px 0px 100px 0px;
     }
 
     nav ul li{
-        text-align: end;
+        text-align: center;
         margin: 0 20px;
     }
 
