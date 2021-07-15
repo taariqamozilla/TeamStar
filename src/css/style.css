@@ -333,6 +333,7 @@ form button, #email{
     height: 3px;
     background-color: black;
     margin: 8px;
+    transition: 1s;
 }
 
 @media screen and (max-width: 764px){
@@ -354,7 +355,7 @@ form button, #email{
         top: 0;
         right: 0;
         height: 100vh;
-        width: 60vw;
+        width: 100vw;
         flex-direction: column;
         justify-content: space-evenly;
         padding: 0px 0px 100px 0px;
@@ -362,6 +363,10 @@ form button, #email{
 
     nav ul li{
         text-align: center;
+        margin: 0 20px;
+    }
+
+    nav ul li:last-of-type{
         margin: 0 20px;
     }
 
@@ -392,7 +397,17 @@ form button, #email{
         top: 30px;
         z-index: 100;
     }
-
+    
+    .close .line{
+        top: 20%;
+        rotate: 45deg;
+        position: absolute;
+    }
+    .close .line:nth-of-type(2){
+        top: 20%;
+        rotate: -45deg;
+        position: absolute;
+    }
     #hero{
         display: grid;
         place-content: center;
