@@ -7,7 +7,7 @@ tags:
   - post
   - featured
 image: /assets/blog/pexels-yury-kim-585419.jpg
-image-alt: Business persons standing around a desk
+imagealt: Business persons standing around a desk
 ---
 
  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ac eros nec dolor consequat hendrerit. In semper erat in enim facilisis sagittis. Phasellus dictum, leo sit amet ultrices hendrerit, metus sem viverra nunc, varius egestas urna risus et nisl. Vestibulum condimentum metus id est suscipit, sed sollicitudin risus tristique. Aliquam vitae lorem vestibulum ex consectetur posuere id at ante. Nunc vestibulum, urna id iaculis tempus, nunc ante aliquet elit, ac mattis dolor nulla vestibulum velit. Nunc at turpis vitae neque accumsan euismod in vitae est.

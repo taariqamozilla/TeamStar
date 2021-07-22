@@ -7,6 +7,6 @@ tags:
   - post
   - featured
 image: /assets/blog/pexels-pixabay-39621.jpg
-image-alt: fuyybh
+imagealt: fuyybh
 ---
 gjvgcgcjcjhghjhjhjvjvjvvjhv
