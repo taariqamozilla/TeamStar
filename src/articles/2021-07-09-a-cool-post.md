@@ -1,14 +1,14 @@
 ---
 author: Taariq mamun
-imagealt: fuyybh
-title: team building excercises that will benifit your team!
-description: a description
 date: 2021-07-09T13:10:23.431Z
+imagealt: fuyybh
+image-alt: Persons on an inflatable raft while on teambuilding exercise
+title: Team building excercises that actually work!
+description: a description
 tags:
   - post
   - featured
 image: /assets/blog/pexels-pixabay-39621.jpg
-image-alt: Persons on an inflatable raft while on teambuilding exercise
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse consectetur maximus mi, in pellentesque mi egestas quis. Cras tristique consequat mollis. Morbi et sollicitudin nibh. Etiam gravida tortor id lectus pretium, a iaculis purus fringilla. Integer vitae condimentum risus. Etiam quis ante nec odio euismod pretium vel rutrum ligula. Nunc in tempus quam. Proin non nibh sollicitudin, viverra est iaculis, fringilla ante. Ut vehicula ligula eros, et cursus nisl sagittis eget. Donec fermentum tincidunt mi in tempus. Pellentesque in sagittis neque. Nam et condimentum dui. Etiam auctor laoreet dolor in porta. Donec eget consectetur nisl. Morbi egestas, nunc at consectetur laoreet, nunc nisi vulputate risus, et facilisis turpis tellus nec leo.
 
